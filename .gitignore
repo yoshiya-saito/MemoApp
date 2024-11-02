@@ -3,6 +3,12 @@
 # dependencies
 node_modules/
 
+# idea
+.idea/
+
+# git setting
+.gitattributes
+
 # Expo
 .expo/
 dist/
